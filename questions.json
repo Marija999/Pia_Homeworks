@@ -1,0 +1,66 @@
+[
+    {
+      "question": "What is the largest country in the world?",
+      "choice1": "Russia",
+      "choice2": "India",
+      "choice3": "China",
+      "choice4": "Canada",
+      "answer": 1
+    },
+    {
+      "question": "Where would you find the River Thames?",
+      "choice1": "Paris",
+      "choice2": "New York",
+      "choice3": "London",
+      "choice4": "Berlin",
+      "answer": 3
+    },
+    {
+      "question": "What is Japanese sake made from?",
+      "choice1": "Red meet",
+      "choice2": "Fish",
+      "choice3": "Vegetables",
+      "choice4": "Rice",
+      "answer": 4
+    },
+    {
+        "question": " Which of these is vegetable?",
+        "choice1": "Watermelon",
+        "choice2": "Apple",
+        "choice3": "Pear",
+        "choice4": "Banana",
+        "answer": 1
+    },
+    {
+        "question": " How many time zones are there in Russia?",
+        "choice1": "9",
+        "choice2": "10",
+        "choice3": "12",
+        "choice4": "11",
+        "answer": 4
+    },
+    {
+        "question": " Which of the following empires had no written language:",
+        "choice1": "Roman",
+        "choice2": "Egyptian",
+        "choice3": "Incan",
+        "choice4": "Aztec",
+        "answer": 3
+    },
+    {
+        "question": " What city do The Beatles come from?",
+        "choice1": "Manchester",
+        "choice2": "Liverpool",
+        "choice3": "London",
+        "choice4": "Dablin",
+        "answer": 2
+    },
+    {
+        "question": " What is the name of the coffee shop in the sitcom Friends?",
+        "choice1": "Central Perk",
+        "choice2": "Central Park",
+        "choice3": "Coffee Perk",
+        "choice4": "Central caffe",
+        "answer": 1
+    }
+]
